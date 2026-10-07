@@ -40,7 +40,7 @@ assetsSummary:
   - Units
   - Position
 citation: Huszar, Roman (2026) CA1 and CA3 electrophysiological dataset in mice performing
-  a spatial memory task (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001880/draft
+  a spatial memory task (Version 0.261007.1849) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001880/0.261007.1849
 contributor:
 - affiliation: []
   email: roman.huszar.17@dartmouth.edu
@@ -50,18 +50,32 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2026-06-29T00:43:39.512579+00:00'
+datePublished: '2026-10-07T18:49:07.109518+00:00'
 description: Simultaneous electrophysiological recordings of CA1 and CA3 neurons in
   mice (n=8) performing a place-reward association task.
-id: DANDI:001880/draft
+doi: 10.48324/dandi.001880/0.261007.1849
+id: DANDI:001880/0.261007.1849
 identifier: DANDI:001880
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001880/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001880/0.261007.1849/assets.yaml
 name: CA1 and CA3 electrophysiological dataset in mice performing a spatial memory
   task
+publishedBy:
+  endDate: '2026-10-07T18:49:07.109518+00:00'
+  id: urn:uuid:047a756b-cb18-4c79-9bdf-f06c722a6749
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-07T18:49:07.109518+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:deedfb9b-a442-4b1d-9242-3dff7c385b84
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/001880/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001880/0.261007.1849
+version: 0.261007.1849
